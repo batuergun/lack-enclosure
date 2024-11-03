@@ -1,6 +1,6 @@
 # Lack Enclosure
 
-![render](render.png)
+![render](render/1.png)
 > IKEA Lack Enclosure for Ender 3
 
 ## Parts List
